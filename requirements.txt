@@ -1,0 +1,12 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+python-multipart==0.0.5
+opencv-python==4.5.3.56
+numpy==1.21.2
+scikit-learn==0.24.2
+matplotlib==3.4.3
+boto3==1.18.44
+imutils==0.5.4
+pdffigures2==0.1.0
+beautifulsoup4==4.9.3
+python-dotenv==0.19.0 
